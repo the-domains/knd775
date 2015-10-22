@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ben Ayles]]></title>
         <description><![CDATA[Ben Ayles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/knd775/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 23:24:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 23:29:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/knd775/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefined35b3817e-e769-4774-9b54-84b49179283b/index.html</link>
+            <description><![CDATA[<p>Ben Ayles</p>]]></description>
+            <link>https://thegrid.ai/knd775/35b3817e-e769-4774-9b54-84b49179283b/index.html</link>
             <guid isPermaLink="false">35b3817e-e769-4774-9b54-84b49179283b</guid>
-            <pubDate>Thu, 22 Oct 2015 23:23:57 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2015 23:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
