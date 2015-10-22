@@ -1,0 +1,23 @@
+name: knd775
+favicon: null
+layout_spectrum: 0.18820979981683195
+typography_spectrum: 0.6972771780565381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8963574636727571
+  lightness: 0.32430941238999367
+  saturation: 0.35532176797278225
+  rhythmicContrast: 0.5326487610582262
+purpose: []
